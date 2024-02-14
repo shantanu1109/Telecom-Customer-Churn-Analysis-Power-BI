@@ -1,15 +1,21 @@
 # Telecom Customer Churn-Analysis - Power BI
 
-This is a project I have done as part of PwC's virtual case experience program. The goal was to create a dashboard reflecting the relevant customer-retention KPIs and to analyze and find key factors influencing customer churn.
+This project, part of PwC's virtual case experience program, aimed to develop a dashboard highlighting crucial customer-retention metrics and conduct an analysis to identify key factors influencing customer churn.
 
-OVERVIEW The Overview page depicts key factors influencing customer churn. Also, some of the main KPIs are visualized.
+### Overview:
+The main page illustrates the primary factors impacting customer churn alongside key performance indicators (KPIs).
 
-CUSTOMER DEMOGRAPHICS On the Demographics page, customer churn rates are visualized based on demographic information about customers' gender, age range, and whether they have partners and dependents.
+### Customer Demographics:
+On this page, churn rates are depicted based on demographic data such as gender, age range, and whether customers have partners or dependents.
 
-ACCOUNT DETAILS The churn rate is visualized on the Account Details page based on customer account information such as how long the customer has been with us, their contract, payment method, paperless billing, monthly charges, total charges, and the number of tickets opened in the administrative and technical categories.
+### Account Details: 
+This section visualizes churn rates based on various customer account details including tenure, contract type, payment method, paperless billing, monthly charges, total charges, and the number of administrative and technical support tickets opened.
 
-SUBSCRIPTION On the Subscription page, the churn rate is visualized based on the services each customer has signed up for phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
+### Subscription: 
+Here, churn rates are presented based on the services each customer has subscribed to, including phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
 
-CUSTOMER INFO Each customer's complete profile is outlined on the Customer Info page. You can look up any specific customer and their information.
+### Customer Info: 
+This page provides a comprehensive profile of each customer, allowing for the lookup of specific customer information.
 
-KEY INSIGHTS All the significant conclusions drawn from the analysis are summarized on the Key Insights page.
+### Key Insights: 
+The final section summarizes significant findings and conclusions drawn from the analysis.
