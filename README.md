@@ -2,11 +2,12 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI) ![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI?logo=history&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github) 
 
-<div style="display: flex; justify-content: center;">
-    ![GitHub repo size](https://img.shields.io/github/repo-size/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI)
-    ![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI?logo=history&logoColor=white)
-    ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github)
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI" alt="GitHub repo size">
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI?logo=history&logoColor=white" alt="GitHub last commit">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?logo=github" alt="Status">
+</p>
+
 
 <div align="center">
     <h2 style="font-size: 44 px;"> Telecom Customer Churn-Analysis - Power BI </h2><br>
