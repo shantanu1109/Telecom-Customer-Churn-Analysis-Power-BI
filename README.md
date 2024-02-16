@@ -5,7 +5,7 @@
 </div>
 
 <div align= "center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fi%25CC%2587stanbuldatascienceacademy%2Fclassification-problem-customer-churn-in-a-bank-aab878ef87f7&psig=AOvVaw0vRGGhdUiU0P83LI933B1G&ust=1708187743059000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi01K-lsIQDFQAAAAAdAAAAABAe">
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*47xx1oXuebvYwZeB0OutuA.png">
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
