@@ -1,5 +1,18 @@
 # Telecom Customer Churn-Analysis - Power BI
 
+## Background
+Customers in the telecom industry are hard-earned, and like the Retention Manager from our telecom Client, no brand wants to lose them. A few weeks after presenting the [Telecom Customer Churn Analysis - Power-BI](https://github.com/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI) dashboard to the management, the Retention Manager from the telecom reached out directly to Shantanu. He was impressed by the work and asked for a dashboard about customer retention.
+
+In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
+
+Customers in the telecom industry are hard-earned: we don’t want to lose them
+The retention department is here to get customers back in case of termination 
+Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
+We  have done customer analysis with Excel: it has always ended in a dead-end
+We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
+The Retentions Manager has provided some information in the resources.
+
+
 This project, part of PwC's virtual case experience program, aimed to develop a dashboard highlighting crucial customer-retention metrics and conduct an analysis to identify key factors influencing customer churn.
 
 ### Overview:
