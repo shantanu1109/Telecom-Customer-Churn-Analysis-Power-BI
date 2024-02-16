@@ -22,7 +22,7 @@ Additionally, the telecom Retention Manager scheduled a meeting with the engagem
 - Enhanced Customer Insight: There's a pressing need for comprehensive customer analysis within the telecom sector. Visual representations of this data, designed to be self-explanatory, are essential for effective communication with the management team. The retention manager has provided some resources to facilitate this process, highlighting its importance.
 
 The retention manager also provided more context to the required dashboard through the email shown below
-![](RetentionMgr_Input.JPG)
+![](Image-1-Retention-Manager-Input.JPG)
 
 This project, part of PwC's virtual case experience program, aimed to develop a dashboard highlighting crucial customer-retention metrics and conduct an analysis to identify key factors influencing customer churn.
 
