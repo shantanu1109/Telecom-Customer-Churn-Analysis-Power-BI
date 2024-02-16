@@ -1,17 +1,14 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI) ![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI?logo=history&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github) 
+<div align="center">
+    <h2 style="font-size: 44 px;"> Telecom Customer Churn-Analysis - Power BI </h2><br>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI" alt="GitHub repo size">
   <img src="https://custom-icon-badges.demolab.com/github/last-commit/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI?logo=history&logoColor=white" alt="GitHub last commit">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?logo=github" alt="Status">
 </p>
-
-
-<div align="center">
-    <h2 style="font-size: 44 px;"> Telecom Customer Churn-Analysis - Power BI </h2><br>
-</div>
 
 <div align= "center">
     <img src="https://blog.salespanel.io/wp-content/uploads/2022/06/image1-02.jpg">
