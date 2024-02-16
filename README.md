@@ -1,17 +1,28 @@
-# Telecom Customer Churn-Analysis - Power BI
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<div align="center">
+    <h2 style="font-size: 44 px;"> Telecom Customer Churn-Analysis - Power BI </h2><br>
+</div>
+
+<div align= "center">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fi%25CC%2587stanbuldatascienceacademy%2Fclassification-problem-customer-churn-in-a-bank-aab878ef87f7&psig=AOvVaw0vRGGhdUiU0P83LI933B1G&ust=1708187743059000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi01K-lsIQDFQAAAAAdAAAAABAe">
+</div>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Background
 Customers in the telecom industry are hard-earned, and like the Retention Manager from our telecom Client, no brand wants to lose them. A few weeks after presenting the [Telecom Customer Churn Analysis - Power-BI](https://github.com/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI) dashboard to the management, the Retention Manager from the telecom reached out directly to Shantanu. He was impressed by the work and asked for a dashboard about customer retention.
 
-In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
+Additionally, the telecom Retention Manager scheduled a meeting with the engagement partner at PwC to better understand the data. Some points covered in the meeting include:
 
-Customers in the telecom industry are hard-earned: we don’t want to lose them
-The retention department is here to get customers back in case of termination 
-Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
-We  have done customer analysis with Excel: it has always ended in a dead-end
-We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
-The Retentions Manager has provided some information in the resources.
+- Proactive Customer Retention: In the telecom industry, retaining customers is paramount. The retention department's primary objective is to re-engage customers in the event of contract termination. Presently, their approach is reactionary, reaching out post-termination. However, a proactive strategy to identify at-risk customers beforehand would be more effective.
 
+- Past Analysis Limitations: Previous attempts at customer analysis using Excel have proven fruitless, resulting in dead-ends. This underscores the necessity for a more sophisticated and efficient analytical approach.
+
+- Enhanced Customer Insight: There's a pressing need for comprehensive customer analysis within the telecom sector. Visual representations of this data, designed to be self-explanatory, are essential for effective communication with the management team. The retention manager has provided some resources to facilitate this process, highlighting its importance.
+
+The retention manager also provided more context to the required dashboard through the email shown below
+![](RetentionMgr_Input.JPG)
 
 This project, part of PwC's virtual case experience program, aimed to develop a dashboard highlighting crucial customer-retention metrics and conduct an analysis to identify key factors influencing customer churn.
 
