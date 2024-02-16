@@ -24,6 +24,8 @@ Additionally, the telecom Retention Manager scheduled a meeting with the engagem
 The retention manager also provided more context to the required dashboard through the email shown below
 ![](Project-Images/Image-1-Retention-Manager-Input.JPG)
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 This project, part of PwC's virtual case experience program, aimed to develop a dashboard highlighting crucial customer-retention metrics and conduct an analysis to identify key factors influencing customer churn.
 
 ### Overview:
