@@ -5,7 +5,7 @@
 </div>
 
 <div align= "center">
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*47xx1oXuebvYwZeB0OutuA.png">
+    <img src="https://blog.salespanel.io/wp-content/uploads/2022/06/image1-02.jpg">
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
