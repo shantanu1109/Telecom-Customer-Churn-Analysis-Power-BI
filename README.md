@@ -100,6 +100,15 @@ The data transformation was finished using Power Query, and now the dataset is l
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## Data Modeling
+
+Then dataset was cleaned and transformed, it was ready for the data modeled.
+
+- The customer churn tables as shown below:
+![](Project-Images/Image-2-Data-Modeling.png)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ### Overview:
 The main page illustrates the primary factors impacting customer churn alongside key performance indicators (KPIs).
