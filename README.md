@@ -129,10 +129,12 @@ Measures used in  all visualization are:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Overview:
-The main page illustrates the primary factors impacting customer churn alongside key performance indicators (KPIs).
 
-### Customer Demographics:
-On this page, churn rates are depicted based on demographic data such as gender, age range, and whether customers have partners or dependents.
+<div align="center">
+    <h4 style="font-size: 44 px;"> Customer Demographics </h4><br>
+</div>
+\
+![](Project-Images/Image-3-Customer-Demographics.png)
 
 ### Account Details: 
 This section visualizes churn rates based on various customer account details including tenure, contract type, payment method, paperless billing, monthly charges, total charges, and the number of administrative and technical support tickets opened.
