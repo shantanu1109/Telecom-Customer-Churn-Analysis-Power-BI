@@ -139,8 +139,10 @@ Shows visualizations from Customer Churn Analysis:
 | On the Customer Demographics page, customer churn rates are visualized based on demographic information about customers' gender, age, and whether they have partners and if they are dependent. |
 |![](Project-Images/Image-3-Customer-Demographics.png)|
 
-### Account Details: 
-This section visualizes churn rates based on various customer account details including tenure, contract type, payment method, paperless billing, monthly charges, total charges, and the number of administrative and technical support tickets opened.
+| Account Details |
+| ----------- |
+| On the Account Details page, churn rates are visualized based on various customer account details including tenure, contract type, payment method, paperless billing, monthly charges, total charges, and the number of administrative and technical support tickets opened. |
+|![](Project-Images/Video-1-Account-Details.mp4)|
 
 ### Subscription: 
 Here, churn rates are presented based on the services each customer has subscribed to, including phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
