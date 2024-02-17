@@ -142,7 +142,10 @@ Shows visualizations from Customer Churn Analysis:
 | Account Details |
 | ----------- |
 | On the Account Details page, churn rates are visualized based on various customer account details including tenure, contract type, payment method, paperless billing, monthly charges, total charges, and the number of administrative and technical support tickets opened. |
-
+|![](Project-Images/Image-4-Account-Details-Tenure.png)|
+|![](Project-Images/Image-5-Account-Details-Tickets.png)|
+|![](Project-Images/Image-6-Account-Details-Charges.png)|
+|![](Project-Images/Image-7-Account-Details-Payments.png)|
 
 ### Subscription: 
 Here, churn rates are presented based on the services each customer has subscribed to, including phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
