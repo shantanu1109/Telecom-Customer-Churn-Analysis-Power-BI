@@ -147,12 +147,12 @@ Shows visualizations from Customer Churn Analysis:
 |![](Project-Images/Image-6-Account-Details-Charges.png)|
 |![](Project-Images/Image-7-Account-Details-Payments.png)|
 
-### Subscription: 
-Here, churn rates are presented based on the services each customer has subscribed to, including phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
+| Customer Subscriptions |
+| ----------- |
+| On the Customer Subscriptions page, churn rates are presented based on the services each customer has subscribed to, including phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies. |
+|![](Project-Images/Image-8-Customer-Subscriptions-Main-Services.png)|
+|![](Project-Images/Image-9-Customer-Subscriptions-Additional-Services.png)|
+|![](Project-Images/Image-X-Customer-Subscriptions-Streaming.png)|
 
-### Customer Info: 
-This page provides a comprehensive profile of each customer, allowing for the lookup of specific customer information.
-
-### Key Insights: 
-The final section summarizes significant findings and conclusions drawn from the analysis.
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
