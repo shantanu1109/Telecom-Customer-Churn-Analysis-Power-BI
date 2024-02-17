@@ -131,7 +131,7 @@ Measures used in  all visualization are:
 ### Overview:
 
 <div align="center">
-    <h4 style="font-size: 44 px;"> Customer Demographics </h4><br>
+    <h2 style="font-size: 44 px;"> Customer Demographics </h2><br>
 </div>
 
 \
