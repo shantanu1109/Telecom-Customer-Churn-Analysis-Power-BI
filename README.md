@@ -51,6 +51,22 @@ The dataset is a Microsoft Excel file that contains one table, consisting of **7
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## Skills
+
+- Data Cleaning
+- Data Inspection
+- Data Transformation
+- Data Standardization
+- Data Visualization
+
+> **Data Inspection:** Visually inspect the data to identify errors, inconsistencies, or missing values.
+
+> **Data Transformation:** Converting data from one format or structure to another, to make it more suitable for a specific task or analysis.
+
+> **Data Standardization:** Converting data into a standard format, such as converting all text to lowercase or standardizing date formats.
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ### Overview:
 The main page illustrates the primary factors impacting customer churn alongside key performance indicators (KPIs).
 
