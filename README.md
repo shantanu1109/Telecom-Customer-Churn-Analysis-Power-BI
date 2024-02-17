@@ -156,3 +156,25 @@ Shows visualizations from Customer Churn Analysis:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+### Insights:
+As shown in the data Visualization, It can be deduced that:
+```
+- Customers on a Two-Year contract, have been with the company for a long, while most of the customers on a Month-to-Month contract joined the company.
+- The company is at risk of losing recently joined customers. based on the results from the analysis.. if they decided to month-to-month contract.
+- 7043 customers are at the risk of churn. and The churn rate is 27% and yearly charges are $16.06M charges. and Monthly Charges are $456.12K monthly charges.
+- 2955 tech tickets were opened and 3632 admin tickets were opened.
+- Most of the churned customers did not sign up for Online Security and tech support and also did not sign up for Phone Services.
+- A lot of customers had an issue with Fiber Optic. Up to 42% of the customers churned were using Fiber Optic as their Internet Services.
+```
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### Recommendation:
+```
+- The Company could try convincing customers to subscribe to One-Year and Two-Year contracts. The contracts are not favorable to customers as they tend to pay more monthly.
+- Giving a discount to customers based on some specific tasks is also good for retaining them, especially those month-to-month contracts.
+- From analysis, the majority of customers who churned did not sign up for Online Security and Tech Support. These are the important services that customers should customers sign up for. The company should educate customers on the benefits of signing up for these services.
+- Increase sales of 1 and 2-year contracts by 5% each and Yearly increase of automatic payments by 5%.
+```
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
