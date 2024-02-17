@@ -142,7 +142,6 @@ Shows visualizations from Customer Churn Analysis:
 | Account Details |
 | ----------- |
 | On the Account Details page, churn rates are visualized based on various customer account details including tenure, contract type, payment method, paperless billing, monthly charges, total charges, and the number of administrative and technical support tickets opened. |
-|[![Watch the video](Project-Images/Video-1-Account-Details.mp4)]|
 
 
 ### Subscription: 
