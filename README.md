@@ -133,6 +133,7 @@ Measures used in  all visualization are:
 <div align="center">
     <h4 style="font-size: 44 px;"> Customer Demographics </h4><br>
 </div>
+
 \
 ![](Project-Images/Image-3-Customer-Demographics.png)
 
