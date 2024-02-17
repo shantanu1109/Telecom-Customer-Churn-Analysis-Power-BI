@@ -67,6 +67,36 @@ The dataset is a Microsoft Excel file that contains one table, consisting of **7
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## Data Preparation
+
+The data transformation was finished using Power Query, and now the dataset is loaded into Microsoft Power BI Desktop for modeling purposes.
+
+1. The Customer Churn dataset is given table named:
+
+> - ChurnDataset which has 7043 rows and 23 columns of observation.
+
+2. Data Cleaning for the dataset was done in the **Power Query Editor** as follows:
+
+- Changed the Data type of customerID, gender, SeniorCitizen as given below:
+> = Table.TransformColumnTypes(#"Promoted Headers",{{"customerID", type text}, {"gender", type text}, {"SeniorCitizen", Int64.Type}, 
+
+- Replaced Value names of Mailed check, Electronic check, Bank transfer (automatic), Credit card (automatic) in the columns as given below:
+> = Table.ReplaceValue(#"Changed Type","Mailed check","Mailed Check",Replacer.ReplaceText,{"PaymentMethod"})
+> = Table.ReplaceValue(#"Replaced Value","Electronic check","Electronic Check",Replacer.ReplaceText,{"PaymentMethod"})
+> = Table.ReplaceValue(#"Replaced Value1","Bank transfer (automatic)","Bank Transfer",Replacer.ReplaceText,{"PaymentMethod"})
+> = Table.ReplaceValue(#"Replaced Value2","Credit card (automatic)","Credit Card",Replacer.ReplaceText,{"PaymentMethod"})
+
+- Replaced Column Names of customerID, gender, tenure as given below:
+> = Table.RenameColumns(#"Replaced Value3",{{"customerID", "CustomerID"}, {"gender", "Gender"}, {"tenure", "Tenure"}})
+
+3. In the new table, two additional conditional columns were added using M-formula:
+
+> CitizenshipStatus = IF('ChurnDataset'[SeniorCitizen] = 0, "Young Citizen", "Senior Citizen")
+> ChurnStatus = IF('ChurnDataset'[Churn] = "Yes", "Churned", "Retained")
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
 ### Overview:
 The main page illustrates the primary factors impacting customer churn alongside key performance indicators (KPIs).
 
