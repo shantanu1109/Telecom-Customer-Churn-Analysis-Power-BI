@@ -136,6 +136,8 @@ Shows visualizations from Customer Churn Analysis:
 
 | Customer Demographics |
 | ----------- |
+| On the Customer Demographics page, customer churn rates are visualized based on demographic information about customers' gender, age, and whether they have partners and if they are dependent. |
+| ----------- |
 |![](Project-Images/Image-3-Customer-Demographics.png)|
 
 ### Account Details: 
