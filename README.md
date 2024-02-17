@@ -128,14 +128,15 @@ Measures used in  all visualization are:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Overview:
+### Data Visualization ( Dashboard ):
 
-<div align="center">
-    <h2 style="font-size: 44 px;"> Customer Demographics </h2><br>
-</div>
+Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
-\
-![](Project-Images/Image-3-Customer-Demographics.png)
+Shows visualizations from Customer Retention analysis:
+
+| Customer Demographics |
+| ----------- |
+|![](Project-Images/Image-3-Customer-Demographics.png)|
 
 ### Account Details: 
 This section visualizes churn rates based on various customer account details including tenure, contract type, payment method, paperless billing, monthly charges, total charges, and the number of administrative and technical support tickets opened.
