@@ -53,11 +53,13 @@ The dataset is a Microsoft Excel file that contains one table, consisting of **7
 
 ## Skills
 
+```
 - Data Cleaning
 - Data Inspection
 - Data Transformation
 - Data Standardization
 - Data Visualization
+```
 
 > **Data Inspection:** Visually inspect the data to identify errors, inconsistencies, or missing values.
 
@@ -81,10 +83,12 @@ The data transformation was finished using Power Query, and now the dataset is l
 > = Table.TransformColumnTypes(#"Promoted Headers",{{"customerID", type text}, {"gender", type text}, {"SeniorCitizen", Int64.Type}, 
 
 - Replaced Value names of Mailed check, Electronic check, Bank transfer (automatic), Credit card (automatic) in the columns as given below:
+```
 > = Table.ReplaceValue(#"Changed Type","Mailed check","Mailed Check",Replacer.ReplaceText,{"PaymentMethod"})
 > = Table.ReplaceValue(#"Replaced Value","Electronic check","Electronic Check",Replacer.ReplaceText,{"PaymentMethod"})
 > = Table.ReplaceValue(#"Replaced Value1","Bank transfer (automatic)","Bank Transfer",Replacer.ReplaceText,{"PaymentMethod"})
 > = Table.ReplaceValue(#"Replaced Value2","Credit card (automatic)","Credit Card",Replacer.ReplaceText,{"PaymentMethod"})
+```
 
 - Replaced Column Names of customerID, gender, tenure as given below:
 > = Table.RenameColumns(#"Replaced Value3",{{"customerID", "CustomerID"}, {"gender", "Gender"}, {"tenure", "Tenure"}})
