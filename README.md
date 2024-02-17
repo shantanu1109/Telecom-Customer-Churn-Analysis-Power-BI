@@ -104,12 +104,29 @@ The data transformation was finished using Power Query, and now the dataset is l
 
 Then dataset was cleaned and transformed, it was ready for the data modeled.
 
-The customer churn tables as shown below 
+The customer churn tables as shown below:
 \
 ![](Project-Images/Image-2-Data-Modeling.png)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## Data Analysis (DAX):
+
+Measures used in  all visualization are:
+
+- Total Customers = `COUNT(ChurnDataset[CustomerID])`
+- Churned Customers = `CALCULATE(COUNTA('ChurnDataset'[CustomerID]), 'ChurnDataset'[Churn] IN { "Yes" })`
+- Retained Customers = `CALCULATE(COUNTA('ChurnDataset'[CustomerID]), 'ChurnDataset'[Churn] IN { "No" })`
+- Percent of Churned Customer = `(ChurnDataset[Churned Customers] / [Total Customers])`
+- Percent of Retained Customers = `([Retained Customers] / [Total Customers])`
+- Churn Rate % = `ChurnDataset[Churned Customers] / COUNT(ChurnDataset[CustomerID])`
+- ChurnStatus = `IF('ChurnDataset'[Churn] = "Yes", "Churned", "Retained")`
+- Monthly Revenue Loss = `CALCULATE(SUM(ChurnDataset[MonthlyCharges]), ChurnDataset[Churn] = "Yes")`
+- Revenue Loss % = `DIVIDE([Monthly Revenue Loss], SUM('ChurnDataset'[MonthlyCharges]), 0)`
+- CitizenshipStatus = `IF('ChurnDataset'[SeniorCitizen] = 0, "Young Citizen", "Senior Citizen")`
+- PaymentMode = `IF(OR('ChurnDataset'[PaymentMethod] = "Electronic Check", 'ChurnDataset'[PaymentMethod] = "Mailed Check"), "Manual", "Automatic")`
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Overview:
 The main page illustrates the primary factors impacting customer churn alongside key performance indicators (KPIs).
@@ -129,15 +146,3 @@ This page provides a comprehensive profile of each customer, allowing for the lo
 ### Key Insights: 
 The final section summarizes significant findings and conclusions drawn from the analysis.
 
-
-Total Customers = COUNT(ChurnDataset[CustomerID])
-Churned Customers = CALCULATE(COUNTA('ChurnDataset'[CustomerID]), 'ChurnDataset'[Churn] IN { "Yes" })
-Retained Customers = CALCULATE(COUNTA('ChurnDataset'[CustomerID]), 'ChurnDataset'[Churn] IN { "No" })
-Churn Rate % = ChurnDataset[Churned Customers] / COUNT(ChurnDataset[CustomerID])
-Monthly Revenue Loss = CALCULATE(SUM(ChurnDataset[MonthlyCharges]), ChurnDataset[Churn] = "Yes")
-Revenue Loss % = DIVIDE([Monthly Revenue Loss], SUM('ChurnDataset'[MonthlyCharges]), 0)
-ChurnStatus = IF('ChurnDataset'[Churn] = "Yes", "Churned", "Retained")
-CitizenshipStatus = IF('ChurnDataset'[SeniorCitizen] = 0, "Young Citizen", "Senior Citizen")
-PaymentMode = IF(OR('ChurnDataset'[PaymentMethod] = "Electronic Check", 'ChurnDataset'[PaymentMethod] = "Mailed Check"), "Manual", "Automatic")
-Percent of Churned Customer = (ChurnDataset[Churned Customers] / [Total Customers])
-Percent of Retained Customers = ([Retained Customers] / [Total Customers])
