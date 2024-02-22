@@ -162,7 +162,7 @@ As shown in the data Visualization, It can be deduced that:
 - Customers on a Two-Year contract, have been with the company for a long, while most of the customers on a Month-to-Month contract joined the company.
 - The company is at risk of losing recently joined customers. based on the results from the analysis.. if they decided to month-to-month contract.
 - 7043 customers are at the risk of churn. and The churn rate is 27% and yearly charges are $16.06M charges. and Monthly Charges are $456.12K monthly charges.
-- 2955 tech tickets were opened and 3632 admin tickets were opened.
+- 782 tech tickets were opened and 2747 admin tickets were opened.
 - Most of the churned customers did not sign up for Online Security and tech support and also did not sign up for Phone Services.
 - A lot of customers had an issue with Fiber Optic. Up to 42% of the customers churned were using Fiber Optic as their Internet Services.
 ```
